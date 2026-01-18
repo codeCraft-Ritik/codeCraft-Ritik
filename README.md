@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://ritik-web-page.netlify.app/](https://ritik-web-page.netlify.app/)
 
-- 📫 How to reach me **kritik2131@gmail.com**
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ritik_kr_1?igsh=MTk2a2JkZXR6MWRpeg==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ritikkumar-21dec) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kritik2131@gmail.com) 
 
