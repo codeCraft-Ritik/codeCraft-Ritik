@@ -1,31 +1,127 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Ritik Kumar
-====================================================================================================================================
+<h1 align="center">Hi 👋, I'm Ritik Kumar</h1>
+<h3 align="center">💻 Full-Stack MERN Developer | 📊 Data Analytics Learner | 🤖 AI/ML Enthusiast</h3>
 
-Turning Data into Insights & Ideas into Scalable Web Applications | MERN + AI/ML
---------------------------------------------------------------------------------
-
-Passionate Full-Stack MERN Developer and Data Analytics student with hands-on experience building scalable, production-grade applications used by real users. I specialize in creating end-to-end web solutions with modern technologies like React, Node.js, and MongoDB, while also exploring the power of AI/ML and data-driven decision making.
-
-I have built and deployed multiple real-world projects, including an Ed-Tech platform processing 500+ secure transactions, and a peer-to-peer lending system actively used by 100+ users. Alongside development, I have completed 25+ projects in Machine Learning, Deep Learning, and Data Analytics, working with tools like Python, Pandas, and PyTorch.
-
-Currently, I am focused on strengthening my skills in Software Development, Data Science, and AI/ML, while actively seeking opportunities to contribute, learn, and grow in real-world environments.
-
-* 🌍  I'm based in I'm based in: Bihar, India 💻 Full-Stack MERN Developer & Data Analytics Learner 📊 Passionate about AI/ML, Data Science & building real-world applications 🚀 Built scalable projects used by 100+ users & handled 500+ transactions 🎯 Currently focused on: Software Development | Data Science | AI/ML 📚 Learning & growing every day with hands-on projects
-* ✉️  You can contact me at [kritik2131@gmail.com](mailto:kritik2131@gmail.com)
-* 🧠  I'm currently learning AI / ML
-* 👥  I'm looking to collaborate on Web Devloper Projects
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" alt="Vue" title="Vue" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" alt="Sass" title="Sass" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" alt="Redux" title="Redux" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://framer.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/framer-colored.svg" alt="Framer" title="Framer" width="36" height="36" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a><a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored-dark.svg" alt="Hugging Face" title="Hugging Face" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" alt="Flutter" title="Flutter" width="36" height="36" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Data+Analytics+Learner;Building+Real+World+Projects" />
 </p>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/codeCraft-Ritik" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/ritikkumar-21dec/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-### Badges
+## 🌍 About Me
+- 🎓 BCA (Data Analytics) @ Amity University (CGPA: 8.4)
+- 🚀 Built production apps used by **100+ real users**
+- 💳 Processed **500+ Razorpay transactions**
+- 📦 Managed **200+ lending transactions**
+- 🤖 Completed **25+ AI/ML projects**
+- 🎯 Targeting roles in **Software Dev | Data Science | AI/ML**
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/codeCraft-Ritik"><img src="https://github-readme-stats.vercel.app/api?username=codeCraft-Ritik&show_icons=true&hide=stars,contribs&title_color=10b981&text_color=3382ed&icon_color=ffffff&bg_color=171717&hide_border=true&show_icons=true" alt="codeCraft-Ritik's GitHub stats" /></a>
+## 🛠️ Tech Stack
 
-<a href="http://www.github.com/codeCraft-Ritik"><img src="https://github-readme-streak-stats.herokuapp.com/?user=codeCraft-Ritik&stroke=3382ed&background=171717&ring=10b981&fire=10b981&currStreakNum=3382ed&currStreakLabel=10b981&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript)
+![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=java)
+![HTML](https://img.shields.io/badge/HTML-111?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-111?style=for-the-badge&logo=css3)
+
+---
+
+### 🌐 Full-Stack Development
+![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react)
+![Node](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-111?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-111?style=for-the-badge&logo=mongodb)
+![Redux](https://img.shields.io/badge/Redux-111?style=for-the-badge&logo=redux)
+![Tailwind](https://img.shields.io/badge/Tailwind-111?style=for-the-badge&logo=tailwind-css)
+
+---
+
+### 📊 Data Analytics
+![Pandas](https://img.shields.io/badge/Pandas-111?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/Numpy-111?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-111?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-111?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-111?style=for-the-badge)
+
+---
+
+### 🤖 AI / ML
+- Machine Learning (Scikit-Learn)
+- Deep Learning (CNN, RNN)
+- NLP & Reinforcement Learning
+- Models: SVM, KNN, Naive Bayes, Gradient Boosting
+
+---
+
+### ⚙️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github)
+![VSCode](https://img.shields.io/badge/VSCode-111?style=for-the-badge&logo=visual-studio-code)
+![Postman](https://img.shields.io/badge/Postman-111?style=for-the-badge&logo=postman)
+![Vercel](https://img.shields.io/badge/Vercel-111?style=for-the-badge&logo=vercel)
+![Render](https://img.shields.io/badge/Render-111?style=for-the-badge)
+
+---
+
+## 🚀 Featured Projects
+
+### 🎓 StudyNotion (Ed-Tech Platform)
+- MERN stack platform with Admin/Instructor/Student roles
+- 💳 Integrated Razorpay (500+ transactions)
+- ⭐ Reviews & ratings system
+
+---
+
+### 🏠 HostelBuddy
+- Lending app used by **100+ users**
+- 📧 Email notifications + role-based auth
+- 📦 Managed 200+ transactions
+
+---
+
+### 📊 IPL 2025 Analytics Dashboard
+- Data analysis using Python
+- 📈 Player performance insights
+- 📊 Interactive dashboards
+
+---
+
+### 🌐 Quick Wheels (Car Rental Platform)
+- Google OAuth + OTP verification
+- 📩 Automated email system
+- 🔄 Multi-step booking system
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+---
+
+## 🧠 Currently Learning
+- Advanced AI/ML & Deep Learning
+- System Design
+- Data Engineering Basics
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:kritik2131@gmail.com"><img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail"></a>
+  <a href="https://github.com/codeCraft-Ritik"><img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github"></a>
+  <a href="https://www.linkedin.com/in/ritikkumar-21dec/"><img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin"></a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+💡 I build real-world projects that actually solve problems — not just tutorials 🚀
