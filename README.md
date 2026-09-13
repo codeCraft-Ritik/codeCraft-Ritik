@@ -8,7 +8,7 @@
 
 <!-- DYNAMIC ROLE TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=06B6D4&center=true&vCenter=true&width=650&height=45&lines=Data+Analytics+Developer;Full-Stack+Developer;AI%2FML+Enthusiast;Open+Source+Contributor" alt="Role Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=06B6D4&center=true&vCenter=true&width=650&height=45&lines=Data+Analytics+Developer;Full-Stack+Developer;Data+Science+%26+AI%2FML+Enthusiast;Open+Source+Contributor" alt="Role Animation" />
 </p>
 
 <p align="center">
