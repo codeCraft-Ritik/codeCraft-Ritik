@@ -307,7 +307,7 @@ I actively train my algorithmic foundations, analytical logic, and database opti
 
 ```bash
 ritik@github:~$ whoami
-> Data Analytics Developer | Full-Stack Developer | AI/ML Enthusiast
+> Data Analytics Developer | Full-Stack Developer | Data Science & AI/ML Enthusiast
 
 ritik@github:~$ status
 > [✓] Learning AI/ML       [✓] Building Projects     [✓] Solving Problems
