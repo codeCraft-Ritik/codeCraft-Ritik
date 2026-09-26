@@ -157,6 +157,7 @@ Rather than stopping at tutorials or sandbox scripts, I focus on engineering pra
     <td><b>💻 Other Languages</b></td>
     <td>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
       <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C"/>
     </td>
   </tr>
