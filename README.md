@@ -59,7 +59,7 @@
 
 ## 👨‍💻 About Me
 
-I am a **BCA student specializing in Data Analytics**, driven by an obsession for turning complex data into actionable intelligence and building clean, high-performance web applications. My work lives at the intersection of **Full-Stack Development (MERN)** and **Applied AI/Machine Learning**.
+**BCA student specializing in Data Analytics**, driven by an obsession for turning complex data into actionable intelligence and building clean, high-performance web applications. My work lives at the intersection of **Full-Stack Development (MERN)** and **Applied AI/Machine Learning**.
 
 Rather than stopping at tutorials or sandbox scripts, I focus on engineering practical, end-to-end software—from autonomous AutoML platforms and conversational RAG interfaces to distributed web applications with zero-friction authentication. I am constantly refining my problem-solving edge, exploring scalable system design, and eager to contribute to forward-thinking engineering teams, ambitious internships, and impactful open-source initiatives.
 
